@@ -30,3 +30,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Maven build output ###
+/target/
+
+### Local secrets ###
+src/main/resources/application.properties
